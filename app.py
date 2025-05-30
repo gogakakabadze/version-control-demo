@@ -1,1 +1,1 @@
-print("Version 1: Hello")
+print("Version 2: Updated message")
